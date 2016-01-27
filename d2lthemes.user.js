@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name          D2L Themes
 // @namespace     https://github.com/iHydra
-// @version       1.0.0
+// @version       1.0.1
 // @description   D2L Themer
 // @include       https://d2l.*.edu/d2l/*
 // @author        iHydra
