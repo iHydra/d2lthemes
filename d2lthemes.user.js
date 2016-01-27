@@ -5,9 +5,9 @@
 // @description   D2L Themer
 // @include       https://d2l.*.edu/d2l/*
 // @author        iHydra
-// @downloadURL   https://github.com/iHydra/
+// @downloadURL   https://raw.githubusercontent.com/iHydra/d2lthemes/master/d2lthemes.user.js
 // @require       https://code.jquery.com/jquery-2.1.4.min.js
-// @resource      MainCSS https://github.com/iHydra/
+// @resource      MainCSS https://raw.githubusercontent.com/iHydra/d2lthemes/master/nightBlue-style.css
 // @grant         GM_addStyle
 // @grant         GM_getResourceText
 // @run-at        document-start
